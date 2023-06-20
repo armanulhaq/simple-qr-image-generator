@@ -1,4 +1,4 @@
-#QR Image Generator
+# QR Image Generator
 This GitHub repository provides a simple QR code image generator implemented in Node.js, utilizing the popular libraries inquirer, qr-image, and fs. The application allows you to generate QR code images by entering a URL of your choice. The generated QR code image is saved as "qr_img.png", and the entered URL is stored in "URL.txt".
 
 🚀 Features:
