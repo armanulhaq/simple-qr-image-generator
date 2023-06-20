@@ -9,7 +9,7 @@ Efficient file handling with fs library for image saving and URL storage
 Customizable and extensible for further enhancements
 🛠️ Installation and Usage:
 
-Clone the repository: git clone https://github.com/your-username/qr-image-generator-nodejs
+Clone the repository: git clone https://github.com/armanulhaq/qr-image-generator
 Install dependencies: npm install
 Run the application: node index.js
 Enter the desired URL when prompted
